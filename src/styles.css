@@ -30,6 +30,10 @@ button:hover {
 .input-area {
   margin-top: 20px;
   background-color: #c1ffff;
+  padding: 10px;
+  margin-bottom: 20px;
+  width: 60%;
+  border-radius: 8px;
 }
 .incomplete-area {
   background-color: #c6ffc6;
